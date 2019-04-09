@@ -698,7 +698,6 @@ void draw()
   {
      size(500, 100);
     fill(0);
-    //stri_enc_toutf8("ee");
     background(204);
     float cursorPosition = textWidth(val);
     line(cursorPosition, 0, cursorPosition, 100);
