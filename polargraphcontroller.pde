@@ -518,7 +518,7 @@ Serial myPort;
 String prec="";
 void setup()
 {
-  
+  //test anis commentaire
   //String portName ="COM10" ;//Serial.list()[0];new Serial(this,"COM8", 9600); 
   myPortt = new Serial(this, "COM4", 9600);
 
